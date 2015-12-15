@@ -1,0 +1,6 @@
+[submodule "public_test"]
+	path = public_test
+	url = https://github.com/crftyes/public.git
+[submodule "public_test_2"]
+	path = public_test_2
+	url = https://github.com/crftyes/public_2.git
